@@ -1,0 +1,28 @@
+1. What is your understanding of Blockchain ?
+Ans: Blockchain is literally just a chain of blocks, blocks are made up of digital pieces of information which uses concepts distributed DBs and cryptography together and provide decentralised, secure, immutable and untampered data needed in various fields.
+
+2. What is the core problem blockchain trying to solve?
+Ans: Authenticity
+Security
+Middle-Man(third party)
+Anonymity
+
+3. What are the few features which blockchain will give you ?
+Ans: Decentralization
+Immutable
+Verifiable
+Tampered free
+Security
+
+4. What all things does a Block Contain?
+Ans: Block Number
+Transaction history(a piece of it)
+Previous hash key
+Current Hash key
+
+5. How is the verifiability of Blockchain has been attained?
+Ans:
+Previous hash key + new data = current hash key
+
+Block 1 = A+ B = C
+Block 2 = C + D = F
