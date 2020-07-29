@@ -1,6 +1,6 @@
 
 // *************under construction***********************
-// *************inconvenience is deeply regreted***********
+
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.6.10;
