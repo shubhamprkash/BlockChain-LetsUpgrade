@@ -1,0 +1,10 @@
+# LetsUpgrade-Blockchain-es
+
+# Blockchain Essentials Code
+
+# Test Deployment of the smart contract can be found @ 0xbd9bcaa9e8cc0a7ad7bdb7c2703e667d7f40a536
+
+in https://rinkeby.etherscan.io/tx/0x0236413ba0efcd91e1bc4dc053b575e9f7a7dd86e542f568b8e80f92d9bd42f3
+
+
+and transaction details in  https://rinkeby.etherscan.io/address/0xbd9bcaa9e8cc0a7ad7bdb7c2703e667d7f40a536
