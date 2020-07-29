@@ -1,6 +1,3 @@
-
-
-
 pragma solidity >=0.4.17 <0.7.0;
 
 contract Report
